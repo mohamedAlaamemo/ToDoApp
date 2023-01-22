@@ -1,7 +1,6 @@
 # to_do_app
 
 A new Flutter project.
-Using state management:cubit and Sqflite.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
